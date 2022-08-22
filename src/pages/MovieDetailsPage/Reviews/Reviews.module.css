@@ -1,0 +1,13 @@
+.list {
+	padding: 20px;
+	background: #2b2b2be3;
+	color: white;
+}
+.title {
+	font-size: 24px;
+	font-weight: 700;
+	color: #a8a8a8;
+}
+.text {
+	line-height: 18px;
+}

@@ -1,0 +1,16 @@
+.nav a {
+  display: inline-block;
+  font-weight: 700;
+  font-size: 24px;
+  padding: 12px;
+}
+
+.inactive {
+  color: #2a363b;
+  transition: color 0.5s, text-shadow 0.5s;
+}
+.active,
+.inactive:hover {
+  text-shadow: none;
+  color: #2196f3;
+}
