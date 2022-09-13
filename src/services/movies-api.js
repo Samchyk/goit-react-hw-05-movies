@@ -1,6 +1,5 @@
 const BASE_URL = 'https://api.themoviedb.org/3';
 const MY_KEY = '5e20cb279600725ad9c8423bb45de652';
-
 export const URL_IMG = 'https://image.tmdb.org/t/p/w500';
 
 async function fetchWithErrorHandling(url = '', config = {}) {
